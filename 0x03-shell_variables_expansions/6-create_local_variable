@@ -1,6 +1,2 @@
-#!/bin/bash
-getBEST(){
+#!/bin/bas
 BEST="School"
-echo $BEST
-}
-export getBEST
