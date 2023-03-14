@@ -1,6 +1,6 @@
 #!/bin/bash
-get_best(){
+getBEST(){
 BEST="School"
 echo $BEST
 }
-get_best
+export getBEST
