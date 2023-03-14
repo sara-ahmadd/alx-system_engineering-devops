@@ -1,2 +1,6 @@
 #!/bin/bash
+get_best(){
 BEST="School"
+echo $BEST
+}
+get_best
